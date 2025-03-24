@@ -1,5 +1,9 @@
 ## Hi there 👋
 
+## 👋 Hi, I'm Aatos Pham
+- 🎓 BSc. International Biz & MSc. Business Analytics
+- 💻 Python, PowerBI, Tableau, SQL, ML
+- 📫 Reach me at: thuanduc911@gmail.com
 <!--
 **bimeo05/bimeo05** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
