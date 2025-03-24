@@ -1,4 +1,4 @@
-## 👋 Moi, I'm Aatos Pham currently at 🇫🇮
+## 👋 Moi, I'm Aatos living in 🇫🇮
 - 🎓 BSc. International Biz & MSc. Biz Analytics @ Aalto University
 - 💻 Python, PowerBI, Tableau, SQL, ML
 - 🌱 I’m currently learning more about Data Science
