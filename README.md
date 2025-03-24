@@ -1,9 +1,10 @@
-## Hi there 👋
-
-## 👋 Hi, I'm Aatos Pham
-- 🎓 BSc. International Biz & MSc. Business Analytics
+## 👋 Moi, I'm Aatos Pham currently at 🇫🇮
+- 🎓 BSc. International Biz & MSc. Biz Analytics @ Aalto University
 - 💻 Python, PowerBI, Tableau, SQL, ML
+- 🌱 I’m currently learning more about Data Science
+- 😄 My interests: Startup 🔭, Sauna, Game, Gymnastic
 - 📫 Reach me at: thuanduc911@gmail.com
+- made by 🇻🇳 with love
 <!--
 **bimeo05/bimeo05** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
