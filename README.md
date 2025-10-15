@@ -1,9 +1,9 @@
-## 👋 Moi, I'm Aatos Pham living in 🇫🇮
+## 👋 Moi, I'm Elior Pham living in 🇫🇮
 - 🎓 BSc. International Biz & MSc. Biz Analytics @ Aalto University
 - 💻 Python, PowerBI, Tableau, SQL, ML
 - 🌱 I’m currently learning more about Data Science
-- 😄 My interests: Startup 🔭, Sauna, Game, Gymnastic
-- 📫 Reach me at: thuanduc911@gmail.com
+- 😄 My interests: Startup 🔭, Sauna, Game, Fitness, Sports
+- 📫 Reach me at: ducthuan.pham@aalto.fi
 - made by 🇻🇳 with love
 <!--
 **bimeo05/bimeo05** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
